@@ -1,1 +1,5 @@
-# Simulating_Effects_NonRepresentative_Sampling_and_Sample_Size
+#Simulating The Effects of Non-Representative Sampling and Sample_Size
+
+Constructing Python simulations can bring to life concepts and frameworks of how we understand the world in a creative, tangible way.  
+
+Today, we'll run through a two simulations. The purpose of the first is to demonstrate the effect of a non-representative sample, one of many types of sampling bias. In real life, this could include over/underrepresentation of subgroups, voluntary bias, or non-response bias, and is common when looking to make sampling more convenient and economical (e.g., surveying people on the way out of the store or on the street, web-intercept surveys, club or class members, etc.). The purpose of the second is to illustrate sample size effect by simulating subsampling of a real health dataset. My analysis includes basic for loops, generating random normal distributions using random.normal and random.choice, generating histograms using seaborn, and drawing statistical observations. 
