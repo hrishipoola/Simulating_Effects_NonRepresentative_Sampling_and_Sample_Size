@@ -1,1 +1,0 @@
-# Simulating_Effects_NonRepresentative_Sampling_and_Sample_Size
